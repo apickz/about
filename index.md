@@ -1,6 +1,7 @@
 # Alex's Project Wasteland
 ### Are any of them finished? Who knows...
 
+/*
 ```markdown
 Syntax highlighted code block
 
@@ -18,3 +19,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+*/
